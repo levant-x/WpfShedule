@@ -1,0 +1,112 @@
+D:\1\ProjectSCHEDULE\WpfSchedule\bin\Debug\WpfSchedule.exe.config
+D:\1\ProjectSCHEDULE\WpfSchedule\bin\Debug\WpfSchedule.exe
+D:\1\ProjectSCHEDULE\WpfSchedule\bin\Debug\WpfSchedule.pdb
+D:\1\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.csprojResolveAssemblyReference.cache
+D:\1\ProjectSCHEDULE\WpfSchedule\obj\Debug\LessonDescriptionControl.g.cs
+D:\1\ProjectSCHEDULE\WpfSchedule\obj\Debug\MainWindow.g.cs
+D:\1\ProjectSCHEDULE\WpfSchedule\obj\Debug\App.g.cs
+D:\1\ProjectSCHEDULE\WpfSchedule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\1\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule_MarkupCompile.cache
+D:\1\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule_MarkupCompile.lref
+D:\1\ProjectSCHEDULE\WpfSchedule\obj\Debug\LessonDescriptionControl.baml
+D:\1\ProjectSCHEDULE\WpfSchedule\obj\Debug\MainWindow.baml
+D:\1\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.g.resources
+D:\1\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.Properties.Resources.resources
+D:\1\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.csproj.GenerateResource.Cache
+D:\1\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.exe
+D:\1\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.pdb
+D:\2\ProjectSCHEDULE\WpfSchedule\bin\Debug\WpfSchedule.exe.config
+D:\2\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.exe
+D:\2\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.pdb
+D:\2\ProjectSCHEDULE\WpfSchedule\bin\Debug\WpfSchedule.exe
+D:\2\ProjectSCHEDULE\WpfSchedule\bin\Debug\WpfSchedule.pdb
+D:\2\ProjectSCHEDULE\WpfSchedule\obj\Debug\LessonDescriptionControl.g.cs
+D:\2\ProjectSCHEDULE\WpfSchedule\obj\Debug\MainWindow.g.cs
+D:\2\ProjectSCHEDULE\WpfSchedule\obj\Debug\App.g.cs
+D:\2\ProjectSCHEDULE\WpfSchedule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\2\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule_MarkupCompile.cache
+D:\2\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule_MarkupCompile.lref
+D:\2\ProjectSCHEDULE\WpfSchedule\obj\Debug\LessonDescriptionControl.baml
+D:\2\ProjectSCHEDULE\WpfSchedule\obj\Debug\MainWindow.baml
+D:\2\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.g.resources
+D:\2\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.Properties.Resources.resources
+D:\2\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.csproj.GenerateResource.Cache
+D:\2\ProjectSCHEDULE\WpfSchedule\bin\Debug\ControlzEx.dll
+D:\2\ProjectSCHEDULE\WpfSchedule\bin\Debug\Fluent.dll
+D:\2\ProjectSCHEDULE\WpfSchedule\bin\Debug\Newtonsoft.Json.dll
+D:\2\ProjectSCHEDULE\WpfSchedule\bin\Debug\System.Windows.Interactivity.dll
+D:\2\ProjectSCHEDULE\WpfSchedule\bin\Debug\ControlzEx.pdb
+D:\2\ProjectSCHEDULE\WpfSchedule\bin\Debug\Fluent.pdb
+D:\2\ProjectSCHEDULE\WpfSchedule\bin\Debug\Fluent.xml
+D:\2\ProjectSCHEDULE\WpfSchedule\bin\Debug\Newtonsoft.Json.xml
+D:\2\ProjectSCHEDULE\WpfSchedule\obj\Debug\App.baml
+D:\2\ProjectSCHEDULE\WpfSchedule\bin\Debug\Excel.dll
+D:\2\ProjectSCHEDULE\WpfSchedule\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\2\ProjectSCHEDULE\WpfSchedule\bin\Debug\Excel.pdb
+D:\2\ProjectSCHEDULE\WpfSchedule\obj\Debug\DayDescriptionControl.g.cs
+D:\2\ProjectSCHEDULE\WpfSchedule\obj\Debug\DayDescriptionControl.baml
+D:\2\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.csprojResolveAssemblyReference.cache
+D:\3\ProjectSCHEDULE\WpfSchedule\bin\Debug\WpfSchedule.exe.config
+D:\3\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.exe
+D:\3\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.pdb
+D:\3\ProjectSCHEDULE\WpfSchedule\bin\Debug\WpfSchedule.exe
+D:\3\ProjectSCHEDULE\WpfSchedule\bin\Debug\WpfSchedule.pdb
+D:\3\ProjectSCHEDULE\WpfSchedule\bin\Debug\ControlzEx.dll
+D:\3\ProjectSCHEDULE\WpfSchedule\bin\Debug\Excel.dll
+D:\3\ProjectSCHEDULE\WpfSchedule\bin\Debug\Fluent.dll
+D:\3\ProjectSCHEDULE\WpfSchedule\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\3\ProjectSCHEDULE\WpfSchedule\bin\Debug\Newtonsoft.Json.dll
+D:\3\ProjectSCHEDULE\WpfSchedule\bin\Debug\System.Windows.Interactivity.dll
+D:\3\ProjectSCHEDULE\WpfSchedule\bin\Debug\ControlzEx.pdb
+D:\3\ProjectSCHEDULE\WpfSchedule\bin\Debug\Excel.pdb
+D:\3\ProjectSCHEDULE\WpfSchedule\bin\Debug\Fluent.pdb
+D:\3\ProjectSCHEDULE\WpfSchedule\bin\Debug\Fluent.xml
+D:\3\ProjectSCHEDULE\WpfSchedule\bin\Debug\Newtonsoft.Json.xml
+D:\3\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.csprojResolveAssemblyReference.cache
+D:\3\ProjectSCHEDULE\WpfSchedule\obj\Debug\DayDescriptionControl.g.cs
+D:\3\ProjectSCHEDULE\WpfSchedule\obj\Debug\LessonDescriptionControl.g.cs
+D:\3\ProjectSCHEDULE\WpfSchedule\obj\Debug\MainWindow.g.cs
+D:\3\ProjectSCHEDULE\WpfSchedule\obj\Debug\App.g.cs
+D:\3\ProjectSCHEDULE\WpfSchedule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\3\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule_MarkupCompile.cache
+D:\3\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule_MarkupCompile.lref
+D:\3\ProjectSCHEDULE\WpfSchedule\obj\Debug\App.baml
+D:\3\ProjectSCHEDULE\WpfSchedule\obj\Debug\DayDescriptionControl.baml
+D:\3\ProjectSCHEDULE\WpfSchedule\obj\Debug\LessonDescriptionControl.baml
+D:\3\ProjectSCHEDULE\WpfSchedule\obj\Debug\MainWindow.baml
+D:\3\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.g.resources
+D:\3\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.Properties.Resources.resources
+D:\3\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.csproj.GenerateResource.Cache
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\bin\Debug\WpfSchedule.exe.config
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\bin\Debug\WpfSchedule.exe
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\bin\Debug\WpfSchedule.pdb
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\bin\Debug\ControlzEx.dll
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\bin\Debug\Excel.dll
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\bin\Debug\Fluent.dll
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\bin\Debug\Newtonsoft.Json.dll
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\bin\Debug\System.Windows.Interactivity.dll
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\bin\Debug\ControlzEx.pdb
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\bin\Debug\Excel.pdb
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\bin\Debug\Fluent.pdb
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\bin\Debug\Fluent.xml
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\bin\Debug\Newtonsoft.Json.xml
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.csprojAssemblyReference.cache
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\DayDescriptionControl.g.cs
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\LessonDescriptionControl.g.cs
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\MainWindow.g.cs
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\App.g.cs
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule_MarkupCompile.cache
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule_MarkupCompile.lref
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\App.baml
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\DayDescriptionControl.baml
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\LessonDescriptionControl.baml
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\MainWindow.baml
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.g.resources
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.Properties.Resources.resources
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.csproj.GenerateResource.cache
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.csproj.CoreCompileInputs.cache
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.csproj.CopyComplete
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.exe
+D:\Документы\Служебные документы\РБИУ\Студенческие работы\Programming Tasks\8. WPF\01.27 Timetable\ProjectSCHEDULE\WpfSchedule\obj\Debug\WpfSchedule.pdb
